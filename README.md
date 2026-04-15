@@ -69,3 +69,4 @@ Total sales peaked in 2020 (**$10M**), achieving a **163% increase** in comparis
 
 * In 2022, **the refund rate and refund count was 0% for all Apple products**, an anomaly which can be explained by **errors in data collection** rather than a sudden change in customer behavior, considering the decrease in total revenue and order count during the same year.
 
+### 
