@@ -9,19 +9,16 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 
 # Executive Summary
 
+
 ## Overall Sales Trends (2019-2022)
 
-![alt text](Figures/Total_Sales.png)
+<img src="Figures/Total_Sales.png" alt="Chart" width="800" height="400">
 
-Total sales peaked in 2020 (**$10M**), achieving a **163% increase** in comparison to 2019 as a result of the COVID-19 pandemic. However, total revenue declined following a sharp decrease in Q1 2021, eventually reaching the least sales in 2022 (**$4.9M**), a **46% decrease** compared to the previous year.
+Although total sales grew significantly in 2020 (**$10M**), unsustainable growth was driven by changes in customer behavior during the pandemic rather than underlying business growth. **Total sales are down -46% in 2022 compared to the previous year, Q4 2022 being worse than 2019 quarterly averages by -33% (-$320K)**.
+ 
+* **Total sales have been decreasing by 28% YoY**: Yearly sales in 2022 are greater than 2019, however,  as the pandemic drew to a close and into the post-pandemic period.
 
-* The highest growth was reached in Q1 2020 ($1.6M) and Q2 2020 ($2.5M), peaking at **$880k** in May 2020 and may be attributed towards a rise in economy-wide spending. 
-
-* Although 2020 was a strong year, **growth was not sustainable** and declined, following a sharp decrease in Jan 2021. 
-
-* Sharp spikes likely reflect **stimulus-driven spending** rather than underlying business performance, as evidenced by their short-lived nature.
-
-* Q4 2022 was the weakest quarter, with sales falling to **$600K**(-48% QoQ), **$300K below 2019 quarterly averages**. October hit a low of **$170K**, likely reflecting operational or market-driven shifts.
+* **Changes in AOV**: Revenue during the pandemic period was driven by increases in AOV, from 
 
 ## Product Insights
 
