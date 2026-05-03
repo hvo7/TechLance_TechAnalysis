@@ -1,24 +1,21 @@
-# TechLance_TechAnalysis
-
-# Table of Contents
-- [Background](#Background)
-- [Executive Summary](#Executive-Summary)
+# TechLance Electronics Analysis
 
 # Background 
 Founded in 2018, TechLance is an e-commerce electronics company that sells popular products from Apple, Samsung, and ThinkPad to an expanded global customer base. TechLance primarily sells its products through their online site as well as through their mobile app while uinge a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. 
 
 # Executive Summary
 
-
-## Overall Sales Trends (2019-2022)
+## The Pandemic Impact
 
 <img src="Figures/Total_Sales.png" alt="Chart" width="800" height="400">
 
-Although total sales grew significantly in 2020 (**$10M**), unsustainable growth was driven by changes in customer behavior during the pandemic rather than underlying business growth. **Total sales are down -46% in 2022 compared to the previous year, Q4 2022 being worse than 2019 quarterly averages by -33% (-$320K)**.
- 
-* **Total sales have been decreasing by 28% YoY**: Yearly sales in 2022 are greater than 2019, however,  as the pandemic drew to a close and into the post-pandemic period.
+* **The Pandemic Period More Than Doubled Total Revenue**: Beginning March 2020 to January 2021, Total Revenue grew by **162.6% YoY** in 2020, peaking at **$10M** but **declined sharply as the pandemic was ending**.
 
-* **Changes in AOV**: Revenue during the pandemic period was driven by increases in AOV, from 
+* **Pandemic Driven Spending Brought Temporary Growth**: During the pandemic, revenue increased as **AOV rose by 30.7% and order count grew by 101%**. This growth was largely supported by **temporary shifts in customer behavior**, as consumers spent more time at home and had additional simulus-driven spending power.
+
+* **Total sales have been decreasing steadily post-pandemic**: Since the later stages of the pandemic, total revenue has been decreasing an average of **-4% MoM**. Although current yearly sales are have increased by **$1M** compared to 2019, **2022 is down -46% YoY, a decrease of -$4M from 2021.**
+
+* **Q4 2022 is the worst quarter during the entire time period**: The most recent quarter has significantly underperformed with a **-32.9%** decrease in total revenue compared to 2019 quarterly averages. 
 
 ## Product Insights
 
