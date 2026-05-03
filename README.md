@@ -15,19 +15,17 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 
 * **Total sales have been decreasing steadily post-pandemic**: Since the later stages of the pandemic, total revenue has been decreasing an average of **-4% MoM**. Although current yearly sales are have increased by **$1M** compared to 2019, **2022 is down -46% YoY, a decrease of -$4M from 2021.**
 
-* **Q4 2022 is the worst quarter during the entire time period**: The most recent quarter has significantly underperformed with a **-32.9%** decrease in total revenue compared to 2019 quarterly averages. 
+* **Q4 2022 was the worst quarter in the past 3 years**: Revenue fell under $700K, down 32.9% vs. 2019 quarterly averages and 48% QoQ. A concerning decline that moves beyond post-pandemic correction, with **revenue now underperforming pre-pandemic benchmarks.**
 
 ## Product Insights
 
 ![alt text](Figures/Product-Figure.png)
 
-* During this time period, the **Apple Airpods Headphones and 27in gaming monitor** were the top products in both order count and total sales, making up **62.6% of total revenue** ($17.5M) and **66.4% of total number of orders** (71K).
+* **Apple Airpods are the most purchased product by a large margin**: From 2019-2022, Apple Airpods represented 44.7% of total products sold, totaling 48K units. In 2020, the product grew by 96% over the previous year but has since declined by -41.1% YoY in 2022.
 
-* The **worst product** considerably was the **Bose Soundsport Headphones** with only 27 orders and contributing 0.01% of total revenue. 
+* **Order Volume is Highly Concentrated On 3 Products**: Apple Airpods, 27in 4k gaming monitor, and Samsung Charging Cable Pack contribute towards 86.69% of order volume, accounting for over 93K units. **This suggests a heavy dependency and making them key drivers of demand, inventory management, and marketing focus.**
 
-* Despite having less than 7,000 total orders, **laptop products had the highest AOV** of over $1,000 for both the **Macbook Air Laptop and ThinkPad Laptop**, while also driving a third of total sales.
-
-* Only 3 products have contributed towards **85% of total revenue** - 27in gaming monitor, Apple Airpods Headphones, and Macbook Air Laptop, which is almost **$24M**. 
+* **Lowest 2 Products Generated Minimal Demand**: The two least ordered products, **Apple iPhone** and **Bose Soundsport Headphones**, contributed minimal value to overall demand, accounting for a negligible **0.29% of total order volume** with just over **300 orders**. 
 
 ## Seasonality 
 
