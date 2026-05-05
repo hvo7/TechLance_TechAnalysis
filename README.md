@@ -31,11 +31,9 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 
 ![alt text](Figures/image-2.png)
 
-* Q4 tends to be the most successful, namely **November and December**, most likely driven by a rise in holiday-driven purchasing behavior, averaging **~20% increase in total revenue MoM**
+* **Q4 Leads Seasonally, Despite October Consistently Underperforming**: Despite November and December averaging 21% MoM growth and consistently driving Q4 as the stongest quarter, **October remains a recurring weakpoint**, averaging a -31% MoM decline and roughly a **-$200K loss in revenue.**
 
-* However, **February and October seem to be the worst months**, with decreases of at least -25% in total revenue and -26% in number of orders.
-
-* The summer months do not fluctuate significantly, though **September has the second highest number of orders on annual average**, behind December. 
+* **October 2022 Was the Lowest-Performing Month, aligning with the broader decline of 2022**: Although October consistently underperforms each year, October 2022 was the sharpest decline, **falling -55.2% MoM** and losing over -$200K. However, this appears consistent with broader 2022 declines, as January and February also declined by -$170K and -$230K, respectively. 
 
 ## Loyalty Program
 
