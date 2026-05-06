@@ -35,6 +35,8 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 
 * **October 2022 Was the Lowest-Performing Month, aligning with the broader decline of 2022**: Although October consistently underperforms each year, October 2022 was the sharpest decline, **falling -55.2% MoM** and losing over -$200K. However, this appears consistent with broader 2022 declines, as January and February also declined by -$170K and -$230K, respectively. 
 
+* **January and February Typically Underperform, But 2020 Was a Notable Exception**: Despite January and February declining an average of -26.8%, the pandemic period throughout 2020 
+
 ## Loyalty Program
 
 ![alt text](Figures/image-4.png)
