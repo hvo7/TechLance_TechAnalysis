@@ -714,9 +714,9 @@
       <layout-options>
         <title>
           <formatted-text>
-            <run bold='true' fontalignment='1' fontname='Tableau Bold'>Loyalty AOV Has Remained Steady</run>
+            <run bold='true' fontalignment='1' fontname='Tableau Bold' fontsize='24'>Loyalty AOV Has Remained Steady</run>
             <run fontalignment='1'>Æ&#10;</run>
-            <run bold='true' fontalignment='1' fontname='Tableau Bold'>Non-Loyalty AOV Has Decreased Post-Pandemic</run>
+            <run bold='true' fontalignment='1' fontname='Tableau Bold' fontsize='24'>Non-Loyalty AOV Has Decreased Post-Pandemic</run>
           </formatted-text>
         </title>
       </layout-options>
@@ -733,6 +733,10 @@
             <column-instance column='[LOYALTY_PROGRAM]' derivation='None' name='[none:LOYALTY_PROGRAM:ok]' pivot='key' type='ordinal' />
             <column-instance column='[PURCHASE_MONTH]' derivation='Month-Trunc' name='[tmn:PURCHASE_MONTH:qk]' pivot='key' type='quantitative' />
           </datasource-dependencies>
+          <filter class='quantitative' column='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]' included-values='non-null' />
+          <slices>
+            <column>[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]</column>
+          </slices>
           <aggregation value='true' />
         </view>
         <style>
@@ -742,14 +746,14 @@
           </style-rule>
           <style-rule element='label'>
             <format attr='font-family' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]' value='Tableau Bold' />
-            <format attr='font-size' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]' value='12' />
             <format attr='font-family' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[avg:USD_PRICE:qk]' value='Tableau Bold' />
-            <format attr='font-size' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[avg:USD_PRICE:qk]' value='12' />
             <format attr='font-weight' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[avg:USD_PRICE:qk]' value='bold' />
             <format attr='text-format' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[avg:USD_PRICE:qk]' value='c&quot;$&quot;#,##0;(&quot;$&quot;#,##0)' />
             <format attr='font-weight' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]' value='normal' />
             <format attr='color' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]' value='#000000' />
             <format attr='color' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[avg:USD_PRICE:qk]' value='#000000' />
+            <format attr='font-size' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[avg:USD_PRICE:qk]' value='16' />
+            <format attr='font-size' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]' value='16' />
           </style-rule>
           <style-rule element='gridline'>
             <format attr='stroke-size' scope='rows' value='0' />
@@ -766,7 +770,6 @@
             <_.fcp.IndividualControlFormatting.true...format attr='color' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[none:LOYALTY_PROGRAM:ok]' id='legend-color' value='#000000' />
             <_.fcp.IndividualControlFormatting.true...format attr='font-weight' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[none:LOYALTY_PROGRAM:ok]' id='legend-color' value='bold' />
             <_.fcp.IndividualControlFormatting.true...format attr='font-family' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[none:LOYALTY_PROGRAM:ok]' id='legend-color' value='Tableau Bold' />
-            <_.fcp.IndividualControlFormatting.true...format attr='text-align' field='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[none:LOYALTY_PROGRAM:ok]' id='legend-color' value='left' />
           </_.fcp.IndividualControlFormatting.true...style-rule>
           <style-rule element='annotation'>
             <format attr='stroke-size' id='annotation_0' value='2' />
@@ -787,9 +790,9 @@
         <rows>[federated.1qaeol20j4rj4017v9vj40x3lr4e].[avg:USD_PRICE:qk]</rows>
         <cols>[federated.1qaeol20j4rj4017v9vj40x3lr4e].[tmn:PURCHASE_MONTH:qk]</cols>
         <annotations>
-          <annotation class='point' id='0' mark-position='1' pullback='0' text-width='180'>
+          <annotation class='point' id='0' mark-position='1' pullback='0' text-width='361'>
             <formatted-text>
-              <run bold='true' fontalignment='1' fontname='Tableau Bold' fontsize='12'>Loyalty Members Overtook in June 2021</run>
+              <run bold='true' fontname='Tableau Bold' fontsize='18'>Loyalty Members Overtook in June 2021</run>
             </formatted-text>
             <point>
               <visual-coordinate class='axis'>
@@ -806,7 +809,7 @@
                 <page-reference />
               </visual-coordinate>
             </point>
-            <body x='44' y='-113' />
+            <body x='134' y='-113' />
           </annotation>
         </annotations>
       </table>
@@ -1260,7 +1263,7 @@
             <format attr='margin' value='8' />
           </zone-style>
         </zone>
-        <zone fixed-size='58' h='16741' id='8' is-fixed='true' name='Loyalty AOV' pane-specification-id='0' param='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[none:LOYALTY_PROGRAM:ok]' type-v2='color' w='12990' x='86425' y='1563' />
+        <zone fixed-size='58' h='9933' id='8' is-fixed='true' name='Loyalty AOV' pane-specification-id='0' param='[federated.1qaeol20j4rj4017v9vj40x3lr4e].[none:LOYALTY_PROGRAM:ok]' type-v2='color' w='9479' x='89936' y='1563' />
       </zones>
       <devicelayouts>
         <devicelayout auto-generated='true' name='Phone'>
@@ -1470,7 +1473,7 @@
       </cards>
       <simple-id uuid='{59FC0085-1945-4052-8727-100FC6191D9F}' />
     </window>
-    <window class='worksheet' name='Loyalty AOV'>
+    <window class='worksheet' maximized='true' name='Loyalty AOV'>
       <cards>
         <edge name='left'>
           <strip size='160'>
@@ -1498,13 +1501,13 @@
       </cards>
       <simple-id uuid='{7BAD7328-2126-42D4-A4C4-7763A12C8FEB}' />
     </window>
-    <window class='dashboard' maximized='true' name='Loyalty Side By Side Chart'>
+    <window class='dashboard' name='Loyalty Side By Side Chart'>
       <viewpoints>
         <viewpoint name='Loyalty AOV'>
           <zoom type='entire-view' />
         </viewpoint>
       </viewpoints>
-      <active id='8' />
+      <active id='3' />
       <simple-id uuid='{363BA32E-9A06-4D1E-B736-7B5F316DEA3F}' />
     </window>
   </windows>

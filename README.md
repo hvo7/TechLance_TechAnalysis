@@ -40,21 +40,43 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 ## Loyalty Program
 
 <p align="center">
-  <img src="Figures/Loyalty_AOV.png" width="45%" height=200 />
-  <img src="Figures/Loyalty_Order_Count.png" width="45%" height=200 />
+  <img src="Figures/Loyalty_AOV.png" width="49%" height=200 />
+  <img src="Figures/Loyalty_Order_Count.png" width="49%" height=200 />
 </p>
 
-* Non-loyalty members dominated early performance, peaking at 108% YoY growth in 2020 and generating **71% ($7.2M) of total revenue**. However, with a sharp decline in **February 2021 by -39%**, non-loyalty members began to decline in total revenue, eventually reaching **under $200K in Q4 2022**
+<table>
+    <tr>
+        <td width="45%" valign="top" style="border: 1px solid white; padding: 16px;">
 
-* This pattern is also reflected in other metrics, where **AOV peaked at $345** and **order count reached 20,822 in 2020**. Both declined shortly thereafter, decreasing in AOV and order count by **-18% and -36%** respectively.
+<strong> Loyalty Steady Growth</strong>
+<ul>
+    <li> Throughout 2019, loyalty members <strong> surged 93.8% </strong>, following the introduction of the program .</li>
+    <li> Loyalty AOV has been gradually <strong> growing by 0.3% MoM </strong>, indicating a consistent increase in higher valued purchases. </li>
+</ul>
 
-* Loyalty members, struggled initially but saw **rapid growth through 2019 and  the pandemic period**, increasing 614% YoY in 2020 and 64% in 2021. Despite a decline in 2022 by -44%, loyal members continue to **drive 55% of total revenue**.
+<strong>Non-Loyalty AOV Faced Significant Decline </strong>
+<ul>
+    <li> In Q1 2020, non-loyalty AOV <strong> grew 46.3% to $338 </strong>, potentially driven by <strong> significant changes in customer behavior from the pandemic </strong> and maintained growth throughout 2020. </li>
+    <li> Throughout 2021-2022, non-loyalty AOV <strong> fell sharply by -52.6% to $182 </strong>, once at its peak of $384 in December 2020, <strong> returning to consistent purchases </strong> rather than temporary large one-time purchases from the pandemic. </li>
+</ul>
 
-* AOV for loyalty members are trending upwards, starting at $207 in 2019 and reaching $245 in 2022. However, order count has **declined to 11,107**, a 43% decrease from the previous year.
+</td>
+
+<td width="44%" valign="top" style="border: 1px solid white; padding: 16px;">
+
+<strong> Loyalty Program Grows in Popularity, while Non-Loyalty Order Volume Declines </strong>
+<ul>
+    <li> Both groups grew in H1 2020, but <strong> loyalty members grew much faster </strong>at 21.1% vs. 6.6% for non-loyalty customers.  </li>
+    <li> After a Q3 2020 dip, <strong> loyalty orders grew 8.0% on average, peaking at a record 1,655 orders, while non-loyalty members fell by 2.1% </strong></li>
+</ul>
+
+</td>
+    </tr>
+</table>
 
 ## Refund Rates 
 
-![alt text](Figures/Refund.png)
+![alt text ](Figures/Refund.png)
 
 * When looking at Apple products specifically, **the Macbook Air Laptop has the highest refund rate overall**, peaking at 18.3% in 2019, but decreasing on average 1.6% YoY. 
 
