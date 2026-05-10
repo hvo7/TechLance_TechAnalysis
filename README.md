@@ -35,11 +35,14 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 
 * **October 2022 Was the Lowest-Performing Month, aligning with the broader decline of 2022**: Although October consistently underperforms each year, October 2022 was the sharpest decline, **falling -55.2% MoM** and losing over -$200K. However, this appears consistent with broader 2022 declines, as January and February also declined by -$170K and -$230K, respectively. 
 
-* **January and February Typically Underperform, But 2020 Was a Notable Exception**: Despite January and February declining an average of -26.8%, the pandemic period throughout 2020 
+* **January and February Typically Underperform, But 2020 Was a Notable Exception**: Despite January and February declining an average of -2.2% in AOV, the pandemic period throughout 2020 was considerably strong at $275 AOV, averaging an increase of 12.8% MoM.
 
 ## Loyalty Program
 
-![alt text](Figures/image-4.png)
+<p align="center">
+  <img src="Figures/Loyalty_AOV.png" width="45%" height=200 />
+  <img src="Figures/Loyalty_Order_Count.png" width="45%" height=200 />
+</p>
 
 * Non-loyalty members dominated early performance, peaking at 108% YoY growth in 2020 and generating **71% ($7.2M) of total revenue**. However, with a sharp decline in **February 2021 by -39%**, non-loyalty members began to decline in total revenue, eventually reaching **under $200K in Q4 2022**
 
