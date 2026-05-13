@@ -50,7 +50,7 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 
 <strong> Loyalty Steady Growth</strong>
 <ul>
-    <li> Throughout 2019, loyalty members <strong> surged 93.8% </strong>, following the introduction of the program .</li>
+    <li> Throughout 2019, loyalty members <strong> surged 93.8% </strong>, following the introduction of the program.</li>
     <li> Loyalty AOV has been gradually <strong> growing by 0.3% MoM </strong>, indicating a consistent increase in higher valued purchases. </li>
 </ul>
 
@@ -76,12 +76,26 @@ Founded in 2018, TechLance is an e-commerce electronics company that sells popul
 
 ## Refund Rates 
 
-![alt text ](Figures/Refund.png)
+### Overall
 
-* When looking at Apple products specifically, **the Macbook Air Laptop has the highest refund rate overall**, peaking at 18.3% in 2019, but decreasing on average 1.6% YoY. 
+From 2019-2022, **5,377 out of 108K orders were refunded**, averaging **4.6% refund rate** during the time period and generating **$2.2M in refunded sales**
 
-* Overall, **all apple products decreased in refund rate by at least 5% from 2020 to 2021**, with the Apple Airpods Headphones decreasing its refund count from 1,529 to 634. 
+* **Laptops had the highest refunded rate at 11.5%**, which is 51.6% higher than the next-highest product, the Apple iPhone.
 
-* In 2022, **the refund rate and refund count was 0% for all Apple products**, an anomaly which can be explained by **errors in data collection** rather than a sudden change in customer behavior, considering the decrease in total revenue and order count during the same year.
+* In 2021, refund rates improves by 58.5% YoY, but this may be partially tied to declining sales and order volume that suggested weaker demand.
 
-### 
+* **2022 yielded no returns**, indicating a potential major shift or a possible data anomaly.
+
+---
+
+![alt text](Figures/Refund.png)
+
+* **Laptops historically had the highest return risk relative to their order volume**, making them the clearest product category risk near 18% refund rate.
+
+* **Apple Airpods** and **Gaming monitors** were the most frequently refunded items, contributing **2.6K** and **1.4K** respectively.
+
+* **Apple products** average **8.2% refund rate**, with over **3K refunded orders** and contributing to almost **$1.2M** in refunded sales.
+
+## Recommendations
+
+* Diversify: Apple Airpods, 27in 4k gaming monitor, and Samsung Charging Cable Pack
