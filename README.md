@@ -98,4 +98,10 @@ From 2019-2022, **5,377 out of 108K orders were refunded**, averaging **4.6% ref
 
 ## Recommendations
 
-* Diversify: Apple Airpods, 27in 4k gaming monitor, and Samsung Charging Cable Pack
+* **Analyze post-pandemic customer behavior**: Identify which behaviors drove the temporary growth period and why demand declines sharply in 2022. This can help **seperate unsustainable growth from long-term customer needs** to guide more reliable growth strategies.
+
+* **Reduce product concentration risk**: With roughly **87% of order volume concentrated in only three products** - Apple Airpods, 27in gaming monitor, and Samsung chargers - expanding into adjacent product could create new revenue streams and reduce reliance on a narrow product mix. Products such as Apple chargers or additional gaming monitor models may help capture demand from similar customer segments.
+
+* **Invesitgate recurring October declines**: Since October consistenly underperforms, a thorough review could help explain seasonal demand shifts, reduce revenue losses, and improve fall inventory planning.
+
+* **Invest further into loyalty growth**: Since loyalty members continued growing and eventually surpassed non-loyalty customers in 2021, **more resources should be allocated toward loyalty incentives** to improve retention and support long-term order growth.
